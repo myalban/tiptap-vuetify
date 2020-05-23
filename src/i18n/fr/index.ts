@@ -144,7 +144,9 @@ export default {
     },
     Table: {
       buttons: {
-        tooltip: 'Tableaux'
+        table: {
+          tooltip: 'Tableaux'
+        }
       }
     }
   }

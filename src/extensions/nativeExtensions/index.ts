@@ -38,6 +38,7 @@
 export { default as Heading } from '~/extensions/nativeExtensions/Heading'
 export { default as Bold } from '~/extensions/nativeExtensions/Bold'
 export { default as Italic } from '~/extensions/nativeExtensions/Italic'
+export { default as Table } from '~/extensions/nativeExtensions/Table'
 export { default as Strike } from '~/extensions/nativeExtensions/Strike'
 export { default as Underline } from '~/extensions/nativeExtensions/Underline'
 export { default as Code } from '~/extensions/nativeExtensions/Code'
