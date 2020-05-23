@@ -148,6 +148,27 @@ export default {
           tooltip: 'Tableaux'
         }
       }
+    },
+    TableRow: {
+      buttons: {
+        table: {
+          tooltip: 'Colonne'
+        }
+      }
+    },
+    TableCell: {
+      buttons: {
+        table: {
+          tooltip: 'Cellule'
+        }
+      }
+    },
+    TableHeader: {
+      buttons: {
+        table: {
+          tooltip: 'En-tête'
+        }
+      }
     }
   }
 }
