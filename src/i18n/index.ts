@@ -19,7 +19,7 @@ import cs from './cs'
 import ConsoleLogger from '~/logging/ConsoleLogger'
 import { TiptapVuetifyPlugin } from '~/main'
 
-export const defaultLanguage = 'en'
+export const defaultLanguage = 'fr'
 export const dictionary = {
   en,
   ru,
