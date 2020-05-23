@@ -113,34 +113,40 @@ export default {
           remove: 'Retirer',
           apply: 'Appliquer'
         }
+      }
+    },
+    Image: {
+      buttons: {
+        tooltip: 'Image'
       },
-      Image: {
-        buttons: {
-          tooltip: 'Image'
+      window: {
+        title: 'Ajouter une Image',
+        form: {
+          sourceLink: 'Image URL',
+          altText: 'Texte alternatif',
+          addImage: 'Ajouter une Image'
         },
-        window: {
-          title: 'Ajouter une Image',
-          form: {
-            sourceLink: 'Image URL',
-            altText: 'Texte alternatif',
-            addImage: 'Ajouter une Image'
-          },
-          imageUpload: {
-            instruction: 'Choisisez une image ou faite un glisser-déposer içi.'
-          },
-          buttons: {
-            close: 'Fermer',
-            apply: 'Sauvegarder'
-          }
-        }
-      },
-      TodoList: {
+        imageUpload: {
+          instruction: 'Choisisez une image ou faite un glisser-déposer içi.'
+        },
         buttons: {
-          todoList: {
-            tooltip: 'To Do Liste'
-          }
+          close: 'Fermer',
+          apply: 'Sauvegarder'
         }
+      }
+    },
+    TodoList: {
+      buttons: {
+        todoList: {
+          tooltip: 'To Do Liste'
+        }
+      }
+    },
+    Table: {
+      buttons: {
+        tooltip: 'Tableaux'
       }
     }
   }
 }
+
