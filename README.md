@@ -1,5 +1,5 @@
 WYSIWYG editor for Vuetify. The editor is based on [tiptap](https://github.com/scrumpy/tiptap) and uses [vuetify's](https://github.com/vuetifyjs/vuetify) components. :muscle:
-*DRAFT*
+*DRAFT v1.000*
   <p align="center">
     <a href="https://www.npmjs.com/package/tiptap-vuetify">
       <img src="https://img.shields.io/npm/v/tiptap-vuetify.svg" alt="Version">
